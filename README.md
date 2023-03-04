@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/004/113/688/original/programmer-concept-for-web-banner-developer-works-at-laptop-writes-code-on-computer-man-creates-programs-modern-people-scene-illustration-in-flat-cartoon-design-with-person-characters-vector.jpg)](https://anupkumar999.io)
+
 <h1 align="center">Hi 👋, I'm ANUP KUMAR M</h1>
 <h3 align="center">I AM A Passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
