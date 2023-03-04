@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/anupkumar" target="blank"><img src="https://img.shields.io/twitter/follow/anupkumar?logo=twitter&style=for-the-badge" alt="anupkumar" /></a> </p>
 
-- 🔭 I’m currently working on **Infographic augmented Reality**
+- 🔭 I’m currently working on **INFOGRAPHIC NAVIGATION AUGMENTED REALITY APPLICATION**
 
 - 🌱 I’m currently learning **Augmented reality**
 
