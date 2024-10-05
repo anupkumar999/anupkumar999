@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/anupkumar" target="blank"><img src="https://img.shields.io/twitter/follow/anupkumar?logo=twitter&style=for-the-badge" alt="anupkumar" /></a> </p>
 
-- 🔭 I’m currently working on **INFOGRAPHIC NAVIGATION AUGMENTED REALITY APPLICATION**
+- 🔭 I’m currently working on **Data Science Projets**
 
-- 🌱 I’m currently learning **Augmented reality**
+- 🌱 I’m currently learning **Data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anupkumar999?tab=repositories](https://github.com/anupkumar999?tab=repositories)
 
