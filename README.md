@@ -22,7 +22,7 @@
 
 ### About Me
 
-Hello! I'm Anup Kumar, a passionate data enthusiast with hands-on experience in data science and data engineering.
+Hello! I'm Anup Kumar, a passionate Ai Software Engineer with hands-on experience in data science and data engineering.
 
 From transforming raw data into actionable insights to building end-to-end data pipelines, I thrive on solving complex challenges and turning data into powerful tools for decision-making.
 
